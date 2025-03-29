@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tools on Gen AI Toolbox</title><link>https://googleapis.github.io/genai-toolbox/resources/tools/</link><description>Recent content in Tools on Gen AI Toolbox</description><generator>Hugo</generator><language>en</language><atom:link href="https://googleapis.github.io/genai-toolbox/resources/tools/index.xml" rel="self" type="application/rss+xml"/><item><title>dgraph-dql</title><link>https://googleapis.github.io/genai-toolbox/resources/tools/dgraph-dql/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://googleapis.github.io/genai-toolbox/resources/tools/dgraph-dql/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tools on Gen AI Toolbox</title><link>https://belinwu.github.io/genai-toolbox/resources/tools/</link><description>Recent content in Tools on Gen AI Toolbox</description><generator>Hugo</generator><language>en</language><atom:link href="https://belinwu.github.io/genai-toolbox/resources/tools/index.xml" rel="self" type="application/rss+xml"/><item><title>dgraph-dql</title><link>https://belinwu.github.io/genai-toolbox/resources/tools/dgraph-dql/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://belinwu.github.io/genai-toolbox/resources/tools/dgraph-dql/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>A &lt;code> dgraph-dql&lt;/code> tool executes a pre-defined DQL statement against a Dgraph
 database. It&amp;rsquo;s compatible with any of the following sources:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://googleapis.github.io/genai-toolbox/resources/sources/dgraph/">dgraph&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://belinwu.github.io/genai-toolbox/resources/sources/dgraph/">dgraph&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>To run a statement as a query, you need to set the config &lt;code>isQuery=true&lt;/code>. For
 upserts or mutations, set &lt;code>isQuery=false&lt;/code>. You can also configure timeout for a
@@ -158,17 +158,17 @@ query.&lt;/p>
  &lt;/tr>
  &lt;tr>
  &lt;td>parameters&lt;/td>
- &lt;td style="text-align: center">&lt;a href="https://googleapis.github.io/genai-toolbox/resources/tools/#specifying-parameters">parameters&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://belinwu.github.io/genai-toolbox/resources/tools/#specifying-parameters">parameters&lt;/a>&lt;/td>
  &lt;td style="text-align: center">false&lt;/td>
- &lt;td>List of &lt;a href="https://googleapis.github.io/genai-toolbox/resources/tools/#specifying-parameters">parameters&lt;/a> that will be used with the dql statement.&lt;/td>
+ &lt;td>List of &lt;a href="https://belinwu.github.io/genai-toolbox/resources/tools/#specifying-parameters">parameters&lt;/a> that will be used with the dql statement.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>mssql-sql</title><link>https://googleapis.github.io/genai-toolbox/resources/tools/mssql-sql/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://googleapis.github.io/genai-toolbox/resources/tools/mssql-sql/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;/table></description></item><item><title>mssql-sql</title><link>https://belinwu.github.io/genai-toolbox/resources/tools/mssql-sql/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://belinwu.github.io/genai-toolbox/resources/tools/mssql-sql/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>A &lt;code>mssql-sql&lt;/code> tool executes a pre-defined SQL statement against a SQL Server
 database. It&amp;rsquo;s compatible with any of the following sources:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://googleapis.github.io/genai-toolbox/resources/sources/cloud-sql-mssql/">cloud-sql-mssql&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://googleapis.github.io/genai-toolbox/resources/sources/mssql/">mssql&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://belinwu.github.io/genai-toolbox/resources/sources/cloud-sql-mssql/">cloud-sql-mssql&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://belinwu.github.io/genai-toolbox/resources/sources/mssql/">mssql&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>Toolbox supports the &lt;a href="https://learn.microsoft.com/sql/relational-databases/system-stored-procedures/sp-prepare-transact-sql?view=sql-server-ver16">prepare statement syntax&lt;/a> of MS SQL
 Server and expects parameters in the SQL query to be in the form of either
@@ -247,17 +247,17 @@ Server and expects parameters in the SQL query to be in the form of either
  &lt;/tr>
  &lt;tr>
  &lt;td>parameters&lt;/td>
- &lt;td style="text-align: center">&lt;a href="https://googleapis.github.io/genai-toolbox/resources/tools/#specifying-parameters">parameters&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://belinwu.github.io/genai-toolbox/resources/tools/#specifying-parameters">parameters&lt;/a>&lt;/td>
  &lt;td style="text-align: center">false&lt;/td>
- &lt;td>List of &lt;a href="https://googleapis.github.io/genai-toolbox/resources/tools/#specifying-parameters">parameters&lt;/a> that will be inserted into the SQL statement.&lt;/td>
+ &lt;td>List of &lt;a href="https://belinwu.github.io/genai-toolbox/resources/tools/#specifying-parameters">parameters&lt;/a> that will be inserted into the SQL statement.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>mysql-sql</title><link>https://googleapis.github.io/genai-toolbox/resources/tools/mysql-sql/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://googleapis.github.io/genai-toolbox/resources/tools/mysql-sql/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;/table></description></item><item><title>mysql-sql</title><link>https://belinwu.github.io/genai-toolbox/resources/tools/mysql-sql/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://belinwu.github.io/genai-toolbox/resources/tools/mysql-sql/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>A &lt;code>mysql-sql&lt;/code> tool executes a pre-defined SQL statement against a mysql
 database. It&amp;rsquo;s compatible with any of the following sources:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://googleapis.github.io/genai-toolbox/resources/sources/cloud-sql-mysql/">cloud-sql-mysql&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://googleapis.github.io/genai-toolbox/resources/sources/mysql/">mysql&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://belinwu.github.io/genai-toolbox/resources/sources/cloud-sql-mysql/">cloud-sql-mysql&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://belinwu.github.io/genai-toolbox/resources/sources/mysql/">mysql&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>The specified SQL statement is executed as a &lt;a href="https://dev.mysql.com/doc/refman/8.4/en/sql-prepared-statements.html">prepared statement&lt;/a>,
 and expects parameters in the SQL query to be in the form of placeholders &lt;code>?&lt;/code>.&lt;/p>
@@ -334,16 +334,16 @@ and expects parameters in the SQL query to be in the form of placeholders &lt;co
  &lt;/tr>
  &lt;tr>
  &lt;td>parameters&lt;/td>
- &lt;td style="text-align: center">&lt;a href="https://googleapis.github.io/genai-toolbox/resources/tools/#specifying-parameters">parameters&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://belinwu.github.io/genai-toolbox/resources/tools/#specifying-parameters">parameters&lt;/a>&lt;/td>
  &lt;td style="text-align: center">false&lt;/td>
- &lt;td>List of &lt;a href="https://googleapis.github.io/genai-toolbox/resources/tools/#specifying-parameters">parameters&lt;/a> that will be inserted into the SQL statement.&lt;/td>
+ &lt;td>List of &lt;a href="https://belinwu.github.io/genai-toolbox/resources/tools/#specifying-parameters">parameters&lt;/a> that will be inserted into the SQL statement.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>neo4j-cypher</title><link>https://googleapis.github.io/genai-toolbox/resources/tools/neo4j-cypher/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://googleapis.github.io/genai-toolbox/resources/tools/neo4j-cypher/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;/table></description></item><item><title>neo4j-cypher</title><link>https://belinwu.github.io/genai-toolbox/resources/tools/neo4j-cypher/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://belinwu.github.io/genai-toolbox/resources/tools/neo4j-cypher/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>A &lt;code>neo4j-cypher&lt;/code> tool executes a pre-defined Cypher statement against a Neo4j
 database. It&amp;rsquo;s compatible with any of the following sources:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://googleapis.github.io/genai-toolbox/resources/sources/neo4j/">neo4j&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://belinwu.github.io/genai-toolbox/resources/sources/neo4j/">neo4j&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>The specified Cypher statement is executed as a &lt;a href="https://neo4j.com/docs/cypher-manual/current/syntax/parameters/">parameterized
 statement&lt;/a>, and specified parameters will be used according to
@@ -419,18 +419,18 @@ their name: e.g. &lt;code>$id&lt;/code>.&lt;/p>
  &lt;/tr>
  &lt;tr>
  &lt;td>parameters&lt;/td>
- &lt;td style="text-align: center">&lt;a href="https://googleapis.github.io/genai-toolbox/resources/tools/#specifying-parameters">parameters&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://belinwu.github.io/genai-toolbox/resources/tools/#specifying-parameters">parameters&lt;/a>&lt;/td>
  &lt;td style="text-align: center">false&lt;/td>
- &lt;td>List of &lt;a href="https://googleapis.github.io/genai-toolbox/resources/tools/#specifying-parameters">parameters&lt;/a> that will be used with the Cypher statement.&lt;/td>
+ &lt;td>List of &lt;a href="https://belinwu.github.io/genai-toolbox/resources/tools/#specifying-parameters">parameters&lt;/a> that will be used with the Cypher statement.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>postgres-sql</title><link>https://googleapis.github.io/genai-toolbox/resources/tools/postgres-sql/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://googleapis.github.io/genai-toolbox/resources/tools/postgres-sql/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;/table></description></item><item><title>postgres-sql</title><link>https://belinwu.github.io/genai-toolbox/resources/tools/postgres-sql/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://belinwu.github.io/genai-toolbox/resources/tools/postgres-sql/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>A &lt;code>postgres-sql&lt;/code> tool executes a pre-defined SQL statement against a Postgres
 database. It&amp;rsquo;s compatible with any of the following sources:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://googleapis.github.io/genai-toolbox/resources/sources/alloydb-pg/">alloydb-postgres&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://googleapis.github.io/genai-toolbox/resources/sources/cloud-sql-pg/">cloud-sql-postgres&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://googleapis.github.io/genai-toolbox/resources/sources/postgres/">postgres&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://belinwu.github.io/genai-toolbox/resources/sources/alloydb-pg/">alloydb-postgres&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://belinwu.github.io/genai-toolbox/resources/sources/cloud-sql-pg/">cloud-sql-postgres&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://belinwu.github.io/genai-toolbox/resources/sources/postgres/">postgres&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>The specified SQL statement is executed as a &lt;a href="https://www.postgresql.org/docs/current/sql-prepare.html">prepared statement&lt;/a>,
 and specified parameters will inserted according to their position: e.g. &lt;code>1&lt;/code>
@@ -509,17 +509,17 @@ on.&lt;/p>
  &lt;/tr>
  &lt;tr>
  &lt;td>parameters&lt;/td>
- &lt;td style="text-align: center">&lt;a href="https://googleapis.github.io/genai-toolbox/resources/tools/#specifying-parameters">parameters&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://belinwu.github.io/genai-toolbox/resources/tools/#specifying-parameters">parameters&lt;/a>&lt;/td>
  &lt;td style="text-align: center">false&lt;/td>
- &lt;td>List of &lt;a href="https://googleapis.github.io/genai-toolbox/resources/tools/#specifying-parameters">parameters&lt;/a> that will be inserted into the SQL statement.&lt;/td>
+ &lt;td>List of &lt;a href="https://belinwu.github.io/genai-toolbox/resources/tools/#specifying-parameters">parameters&lt;/a> that will be inserted into the SQL statement.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>spanner-sql</title><link>https://googleapis.github.io/genai-toolbox/resources/tools/spanner-sql/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://googleapis.github.io/genai-toolbox/resources/tools/spanner-sql/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;/table></description></item><item><title>spanner-sql</title><link>https://belinwu.github.io/genai-toolbox/resources/tools/spanner-sql/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://belinwu.github.io/genai-toolbox/resources/tools/spanner-sql/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>A &lt;code>spanner-sql&lt;/code> tool executes a pre-defined SQL statement (either &lt;code>googlesql&lt;/code> or
 &lt;code>postgresql&lt;/code>) against a Cloud Spanner database. It&amp;rsquo;s compatible with any of the
 following sources:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://googleapis.github.io/genai-toolbox/resources/sources/spanner/">spanner&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://belinwu.github.io/genai-toolbox/resources/sources/spanner/">spanner&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="googlesql">GoogleSQL&lt;a class="td-heading-self-link" href="#googlesql" aria-label="Heading self-link">&lt;/a>&lt;/h3>
 &lt;p>For the &lt;code>googlesql&lt;/code> dialect, the specified SQL statement is executed as a &lt;a href="https://cloud.google.com/spanner/docs/reference/standard-sql/dml-syntax">data

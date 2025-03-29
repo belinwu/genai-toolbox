@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sources on Gen AI Toolbox</title><link>https://googleapis.github.io/genai-toolbox/resources/sources/</link><description>Recent content in Sources on Gen AI Toolbox</description><generator>Hugo</generator><language>en</language><atom:link href="https://googleapis.github.io/genai-toolbox/resources/sources/index.xml" rel="self" type="application/rss+xml"/><item><title>AlloyDB for PostgreSQL</title><link>https://googleapis.github.io/genai-toolbox/resources/sources/alloydb-pg/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://googleapis.github.io/genai-toolbox/resources/sources/alloydb-pg/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sources on Gen AI Toolbox</title><link>https://belinwu.github.io/genai-toolbox/resources/sources/</link><description>Recent content in Sources on Gen AI Toolbox</description><generator>Hugo</generator><language>en</language><atom:link href="https://belinwu.github.io/genai-toolbox/resources/sources/index.xml" rel="self" type="application/rss+xml"/><item><title>AlloyDB for PostgreSQL</title><link>https://belinwu.github.io/genai-toolbox/resources/sources/alloydb-pg/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://belinwu.github.io/genai-toolbox/resources/sources/alloydb-pg/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>&lt;a href="https://cloud.google.com/alloydb/docs">AlloyDB for PostgreSQL&lt;/a> is a fully-managed, PostgreSQL-compatible
 database for demanding transactional workloads. It provides enterprise-grade
 performance and availability while maintaining 100% compatibility with
@@ -10,7 +10,7 @@ cluster&lt;/a>.&lt;/p>
 &lt;p>By default, AlloyDB for PostgreSQL source uses the &lt;a href="https://github.com/GoogleCloudPlatform/alloydb-go-connector">AlloyDB Go
 Connector&lt;/a> to authorize and establish mTLS connections to your
 AlloyDB instance. The Go connector uses your &lt;a href="https://cloud.google.com/docs/authentication#adc">Application Default Credentials
-(ADC)&lt;/a> to authorize your connection to AlloyDB.&lt;/p></description></item><item><title>Cloud SQL for MySQL</title><link>https://googleapis.github.io/genai-toolbox/resources/sources/cloud-sql-mysql/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://googleapis.github.io/genai-toolbox/resources/sources/cloud-sql-mysql/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+(ADC)&lt;/a> to authorize your connection to AlloyDB.&lt;/p></description></item><item><title>Cloud SQL for MySQL</title><link>https://belinwu.github.io/genai-toolbox/resources/sources/cloud-sql-mysql/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://belinwu.github.io/genai-toolbox/resources/sources/cloud-sql-mysql/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>&lt;a href="https://cloud.google.com/sql/docs/mysql">Cloud SQL for MySQL&lt;/a> is a fully-managed database service
 that helps you set up, maintain, manage, and administer your MySQL
 relational databases on Google Cloud Platform.&lt;/p>
@@ -21,7 +21,7 @@ to a database by following these instructions&lt;/a>.&lt;/p>
 &lt;p>By default, this source uses the &lt;a href="https://github.com/GoogleCloudPlatform/cloud-sql-go-connector">Cloud SQL Go Connector&lt;/a> to
 authorize and establish mTLS connections to your Cloud SQL instance. The Go
 connector uses your &lt;a href="https://cloud.google.com/docs/authentication#adc">Application Default Credentials (ADC)&lt;/a> to authorize
-your connection to Cloud SQL.&lt;/p></description></item><item><title>Cloud SQL for PostgreSQL</title><link>https://googleapis.github.io/genai-toolbox/resources/sources/cloud-sql-pg/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://googleapis.github.io/genai-toolbox/resources/sources/cloud-sql-pg/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+your connection to Cloud SQL.&lt;/p></description></item><item><title>Cloud SQL for PostgreSQL</title><link>https://belinwu.github.io/genai-toolbox/resources/sources/cloud-sql-pg/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://belinwu.github.io/genai-toolbox/resources/sources/cloud-sql-pg/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>&lt;a href="https://cloud.google.com/sql/docs/postgres">Cloud SQL for PostgreSQL&lt;/a> is a fully-managed database service
 that helps you set up, maintain, manage, and administer your PostgreSQL
 relational databases on Google Cloud Platform.&lt;/p>
@@ -32,7 +32,7 @@ to a database by following these instructions&lt;/a>.&lt;/p>
 &lt;p>By default, this source uses the &lt;a href="https://github.com/GoogleCloudPlatform/cloud-sql-go-connector">Cloud SQL Go Connector&lt;/a> to
 authorize and establish mTLS connections to your Cloud SQL instance. The Go
 connector uses your &lt;a href="https://cloud.google.com/docs/authentication#adc">Application Default Credentials (ADC)&lt;/a> to authorize
-your connection to Cloud SQL.&lt;/p></description></item><item><title>Cloud SQL for SQL Server</title><link>https://googleapis.github.io/genai-toolbox/resources/sources/cloud-sql-mssql/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://googleapis.github.io/genai-toolbox/resources/sources/cloud-sql-mssql/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+your connection to Cloud SQL.&lt;/p></description></item><item><title>Cloud SQL for SQL Server</title><link>https://belinwu.github.io/genai-toolbox/resources/sources/cloud-sql-mssql/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://belinwu.github.io/genai-toolbox/resources/sources/cloud-sql-mssql/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>&lt;a href="https://cloud.google.com/sql/docs/sqlserver">Cloud SQL for SQL Server&lt;/a> is a managed database service that
 helps you set up, maintain, manage, and administer your SQL Server databases on
 Google Cloud.&lt;/p>
@@ -43,7 +43,7 @@ to a database by following these instructions&lt;/a>.&lt;/p>
 &lt;p>By default, this source uses the &lt;a href="https://github.com/GoogleCloudPlatform/cloud-sql-go-connector">Cloud SQL Go Connector&lt;/a> to
 authorize and establish mTLS connections to your Cloud SQL instance. The Go
 connector uses your &lt;a href="https://cloud.google.com/docs/authentication#adc">Application Default Credentials (ADC)&lt;/a> to authorize
-your connection to Cloud SQL.&lt;/p></description></item><item><title>Dgraph</title><link>https://googleapis.github.io/genai-toolbox/resources/sources/dgraph/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://googleapis.github.io/genai-toolbox/resources/sources/dgraph/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+your connection to Cloud SQL.&lt;/p></description></item><item><title>Dgraph</title><link>https://belinwu.github.io/genai-toolbox/resources/sources/dgraph/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://belinwu.github.io/genai-toolbox/resources/sources/dgraph/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>&lt;a href="https://dgraph.io/docs">Dgraph&lt;/a> is an open-source graph database. It is designed for real-time workloads, horizontal scalability, and data flexibility. Implemented as a distributed system, Dgraph processes queries in parallel to deliver the fastest result.&lt;/p>
 &lt;p>This source can connect to either a self-managed Dgraph cluster or one hosted on
 Dgraph Cloud. If you&amp;rsquo;re new to Dgraph, the fastest way to get started is to
@@ -52,7 +52,7 @@ Dgraph Cloud. If you&amp;rsquo;re new to Dgraph, the fastest way to get started 
 &lt;h3 id="database-user">Database User&lt;a class="td-heading-self-link" href="#database-user" aria-label="Heading self-link">&lt;/a>&lt;/h3>
 &lt;p>When &lt;strong>connecting to a hosted Dgraph database&lt;/strong>, this source uses the API key
 for access. If you are using a dedicated environment, you will additionally need
-the namespace and user credentials for that namespace.&lt;/p></description></item><item><title>MySQL</title><link>https://googleapis.github.io/genai-toolbox/resources/sources/mysql/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://googleapis.github.io/genai-toolbox/resources/sources/mysql/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+the namespace and user credentials for that namespace.&lt;/p></description></item><item><title>MySQL</title><link>https://belinwu.github.io/genai-toolbox/resources/sources/mysql/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://belinwu.github.io/genai-toolbox/resources/sources/mysql/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>&lt;a href="https://www.mysql.com/">MySQL&lt;/a> is a relational database management system (RDBMS) that
 stores and manages data. It&amp;rsquo;s a popular choice for developers because of its
 reliability, performance, and ease of use.&lt;/p>
@@ -117,7 +117,7 @@ MySQL user&lt;/a> to login to the database with.&lt;/p>
  &lt;td>Password of the MySQL user (e.g. &amp;ldquo;my-password&amp;rdquo;).&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>Neo4j</title><link>https://googleapis.github.io/genai-toolbox/resources/sources/neo4j/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://googleapis.github.io/genai-toolbox/resources/sources/neo4j/</guid><description>&lt;p>&lt;a href="https://neo4j.com/docs">Neo4j&lt;/a> is a powerful, open source graph database system with over
+&lt;/table></description></item><item><title>Neo4j</title><link>https://belinwu.github.io/genai-toolbox/resources/sources/neo4j/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://belinwu.github.io/genai-toolbox/resources/sources/neo4j/</guid><description>&lt;p>&lt;a href="https://neo4j.com/docs">Neo4j&lt;/a> is a powerful, open source graph database system with over
 15 years of active development that has earned it a strong reputation for
 reliability, feature robustness, and performance.&lt;/p>
 &lt;h2 id="requirements">Requirements&lt;a class="td-heading-self-link" href="#requirements" aria-label="Heading self-link">&lt;/a>&lt;/h2>
@@ -175,7 +175,7 @@ user if available.&lt;/p>
  &lt;td>Name of the Neo4j database to connect to (e.g. &amp;ldquo;neo4j&amp;rdquo;).&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>PostgreSQL</title><link>https://googleapis.github.io/genai-toolbox/resources/sources/postgres/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://googleapis.github.io/genai-toolbox/resources/sources/postgres/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;/table></description></item><item><title>PostgreSQL</title><link>https://belinwu.github.io/genai-toolbox/resources/sources/postgres/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://belinwu.github.io/genai-toolbox/resources/sources/postgres/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>&lt;a href="https://www.postgresql.org/">PostgreSQL&lt;/a> is a powerful, open source object-relational database
 system with over 35 years of active development that has earned it a strong
 reputation for reliability, feature robustness, and performance.&lt;/p>
@@ -240,7 +240,7 @@ PostreSQL user&lt;/a> to login to the database with.&lt;/p>
  &lt;td>Password of the Postgres user (e.g. &amp;ldquo;my-password&amp;rdquo;).&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>Spanner</title><link>https://googleapis.github.io/genai-toolbox/resources/sources/spanner/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://googleapis.github.io/genai-toolbox/resources/sources/spanner/</guid><description>&lt;h1 id="spanner-source">Spanner Source&lt;a class="td-heading-self-link" href="#spanner-source" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;/table></description></item><item><title>Spanner</title><link>https://belinwu.github.io/genai-toolbox/resources/sources/spanner/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://belinwu.github.io/genai-toolbox/resources/sources/spanner/</guid><description>&lt;h1 id="spanner-source">Spanner Source&lt;a class="td-heading-self-link" href="#spanner-source" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>&lt;a href="https://cloud.google.com/spanner/docs">Spanner&lt;/a> is a fully managed, mission-critical database service
 that brings together relational, graph, key-value, and search. It offers
 transactional consistency at global scale, automatic, synchronous replication
@@ -253,7 +253,7 @@ the Google Cloud console&lt;/a>.&lt;/p>
 &lt;p>Spanner uses &lt;a href="https://cloud.google.com/spanner/docs/iam">Identity and Access Management (IAM)&lt;/a> to control
 user and group access to Spanner resources at the project, Spanner instance, and
 Spanner database levels. Toolbox will use your &lt;a href="https://cloud.google.com/docs/authentication#adc">Application Default Credentials
-(ADC)&lt;/a> to authorize and authenticate when interacting with Spanner.&lt;/p></description></item><item><title>SQL Server</title><link>https://googleapis.github.io/genai-toolbox/resources/sources/mssql/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://googleapis.github.io/genai-toolbox/resources/sources/mssql/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+(ADC)&lt;/a> to authorize and authenticate when interacting with Spanner.&lt;/p></description></item><item><title>SQL Server</title><link>https://belinwu.github.io/genai-toolbox/resources/sources/mssql/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://belinwu.github.io/genai-toolbox/resources/sources/mssql/</guid><description>&lt;h2 id="about">About&lt;a class="td-heading-self-link" href="#about" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>&lt;a href="https://www.microsoft.com/en-us/sql-server">SQL Server&lt;/a> is a relational database management system (RDBMS)
 developed by Microsoft that allows users to store, retrieve, and manage large
 amount of data through a structured format.&lt;/p>
